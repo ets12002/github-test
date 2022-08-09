@@ -3,3 +3,8 @@ h1 {
   color: magenta;
   font-size: 40px;
 }
+
+img {
+  margin: 0 auto;
+  display: block;
+}
